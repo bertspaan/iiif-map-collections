@@ -1,0 +1,903 @@
+[
+  {
+    "title": "National Library of Scotland",
+    "id": "nls",
+    "url": "https://maps.nls.uk/",
+    "examples": [
+      {
+        "title": "Cornwall LXXIV.SW (includes: Paul; Penzance.)",
+        "type": "image",
+        "url": "https://mapview.nls.uk/iiif/10143/101439545/info.json"
+      },
+      {
+        "title": "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)",
+        "type": "image",
+        "url": "https://mapview.nls.uk/iiif/10143/101439530/info.json"
+      },
+      {
+        "title": "Cornwall LXXIV.14 (Paul; Penzance)",
+        "type": "image",
+        "url": "https://mapview.nls.uk/iiif/10599/105996559/info.json"
+      },
+      {
+        "title": "Cornwall LXXIV.10 (Penzance)",
+        "type": "image",
+        "url": "https://mapview.nls.uk/iiif/10599/105996544/info.json"
+      },
+      {
+        "title": "Lancashire CIV.11 (Manchester)",
+        "type": "image",
+        "url": "https://mapview.nls.uk/iiif/12652/126522842/info.json"
+      },
+      {
+        "title": "Kent II.NW (includes: Borough Of Greenwich; Borough Of Woolwich; East Ham; West Ham.)",
+        "type": "image",
+        "url": "https://mapview.nls.uk/iiif/10146/101465411/info.json"
+      },
+      {
+        "title": "Essex LXXXI.NW (includes: Bermondsey; Borough Of Greenwich; Deptford St Paul; Poplar Borough; Stepney.)",
+        "type": "image",
+        "url": "https://mapview.nls.uk/iiif/10145/101456111/info.json"
+      },
+      {
+        "title": "Inverness-shire - Mainland X.3",
+        "type": "image",
+        "url": "https://map-view.nls.uk/iiif/2/8288%2F82886967/info.json"
+      }
+    ]
+  },
+  {
+    "title": "Stanford Libraries",
+    "id": "stanford",
+    "url": "https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=",
+    "examples": [
+      {
+        "title": "Map of city of Palo Alto, Santa Clara Co., Calif",
+        "type": "manifest",
+        "url": "https://purl.stanford.edu/vg994wz9415/iiif/manifest"
+      },
+      {
+        "title": "Holland (Koningrijk der Nederlanden)",
+        "type": "manifest",
+        "url": "https://purl.stanford.edu/ry246nj3092/iiif/manifest"
+      },
+      {
+        "title": "Ōmi Kuni-ezu -- 近江國絵圖",
+        "type": "manifest",
+        "url": "https://purl.stanford.edu/hs631zg4177/iiif/manifest"
+      }
+    ]
+  },
+  {
+    "title": "Digital Commonwealth - Massachusetts Collections Online",
+    "id": "digital-commonwealth",
+    "url": "https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps",
+    "examples": [
+      {
+        "title": "Aeronautical view of the Panama Canal",
+        "type": "manifest",
+        "url": "https://ark.digitalcommonwealth.org/ark:/50959/4m90fk088/manifest"
+      },
+      {
+        "title": "Antwerp : or Anvers",
+        "type": "manifest",
+        "url": "https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest"
+      },
+      {
+        "title": "Ashland Cotton Company (Cotton & Rayon), Jewett City, Conn.",
+        "type": "manifest",
+        "url": "https://ark.digitalcommonwealth.org/ark:/50959/2r36vc10j/manifest"
+      },
+      {
+        "title": "Winthrop Mills Company (Cotton & Woolen Cloth), Winthrop, Maine",
+        "type": "manifest",
+        "url": "https://ark.digitalcommonwealth.org/ark:/50959/2r36vc24w/manifest"
+      }
+    ]
+  },
+  {
+    "title": "Leventhal Map & Education Center",
+    "id": "lmec",
+    "url": "https://collections.leventhalmap.org",
+    "examples": [
+      {
+        "title": "The town of Boston in New England",
+        "type": "manifest",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:9s161f21f/manifest"
+      },
+      {
+        "title": "Map of the White Mountains of New Hampshire from Walling's map of the state, 1877",
+        "type": "manifest",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:cj82m759t/manifest"
+      },
+      {
+        "title": "General plan : Government Center - Boston - 1959",
+        "type": "manifest",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:7h14cv71z/manifest"
+      },
+      {
+        "title": "Inner belt, Southwest Expressway",
+        "type": "manifest",
+        "url": "https://collections.leventhalmap.org/search/commonwealth:7h14cv973/manifest"
+      }
+    ]
+  },
+  {
+    "title": "University of Miami Libraries",
+    "id": "university-of-miami-libraries",
+    "url": "https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/title/ad/asc",
+    "examples": [
+      {
+        "title": "A new & accurate map of the Island of Cuba",
+        "type": "manifest",
+        "url": "https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)",
+    "include": false,
+    "examples": [
+      {
+        "title": "1985-1014 Plattegrond van het centrum van Rotterdam rond 1930. De plattegrond is gebaseerd op de bladen 5, 6, 8, en 9 van de Plattegrond der gemeente Rotterdam, schaal 1:5.000, respectievelijk uitgegeven in de jaren 1935, 1928, 1935 en 1926.",
+        "type": "image",
+        "url": "https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1985-1014-01/info.json"
+      },
+      {
+        "title": "1972-755-1 Kaart van het centrum van Rotterdam van voor mei 1940",
+        "type": "image",
+        "url": "https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1972-755-1/info.json"
+      },
+      {
+        "title": "1970-2043 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool.",
+        "type": "image",
+        "url": "https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_1970-2043/info.json"
+      },
+      {
+        "title": "I-259-10 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool.",
+        "type": "image",
+        "url": "https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-259-10/info.json"
+      },
+      {
+        "title": "I-138-02-5 Plattegrond van Rotterdam in 12 bladen. Blad 5: Middelland; Oude Westen; Cool; Stadsdriehoek; Provenierswijk; Oude Noorden; Rubroek",
+        "type": "image",
+        "url": "https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json"
+      }
+    ]
+  },
+  {
+    "title": "Leiden University",
+    "id": "leiden-university",
+    "url": "https://digitalcollections.universiteitleiden.nl/islandora/search?type=dismax&islandora_solr_search_navigation=0&f[0]=RELS_EXT_isMemberOfCollection_uri_ms:%22info\\:fedora\\/collection\\:ubl_maps%22",
+    "examples": [
+      {
+        "title": "Expugnatio Fortissimae Vibis Bredae Anno 1637 COLLBN Port 51 N 13",
+        "type": "manifest",
+        "url": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481595/manifest"
+      }
+    ]
+  },
+  {
+    "title": "Library of Congress Maps",
+    "id": "loc",
+    "url": "https://www.loc.gov/maps/",
+    "examples": [
+      {
+        "title": "Chesapeake and Ohio Canal, Washington, D.C., Maryland, West Virginia, official map and guide",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/88695674/manifest.json"
+      },
+      {
+        "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana.",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/sanborn03376_001/manifest.json"
+      },
+      {
+        "title": "Das Rheinland von Basel bis Rotterdam : nebst denen zunächstliegenden Städten, Strassen und Eisenbahnen",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/2015591075/manifest.json"
+      },
+      {
+        "title": "Crater Lake National Park, Oregon",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/97684223/manifest.json"
+      },
+      {
+        "title": "Map showing the land grant of the Northern Pacific Railroad Company in Montana, Idaho, and in part of North Dakota, and in part of eastern Washington, reaching from Dickinson, North Dakota, to Ritzville, eastern Washington.",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/86695638/manifest.json"
+      },
+      {
+        "title": "General Karte vom Preussischen Staate mit den Gränzen der Regierungs-Bezirke und landräthlichen Kreise",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/2018588025/manifest.json"
+      },
+      {
+        "title": "Map of the seat of war showing the battles of July 18th & 21st, 1861",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/lva0000010/manifest.json"
+      },
+      {
+        "title": "New York Central and Hudson River Railroad.",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/98688736/manifest.json"
+      },
+      {
+        "title": "Northern Pacific Railroad Co.--completed road, September 5th, 1882.",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/98688748/manifest.json"
+      },
+      {
+        "title": "Plan of Rome",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/2018588032/manifest.json"
+      },
+      {
+        "title": "Map of the city of Washington showing location of fatal cases of zymotic diseases for the year ending June 30, 1894",
+        "type": "manifest",
+        "url": "https://www.loc.gov/item/87694060/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Universiteitsbibliotheek, Vrije Universiteit Amsterdam",
+    "id": "vu",
+    "url": "https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt",
+    "examples": [
+      {
+        "title": "Choro-topographische kaart der Noordelijke Provinciën van het Koningrijk der Nederlanden / uitgevoerd aan het Topographisch Bureau van dezen Staat, volgens het ontwerp, de geodesische en astronomische waarnemingen van Baron Kraijenhoff",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/iiif/info/krt/2175/manifest.json"
+      },
+      {
+        "title": "Scheepvaartwegen in Nederland : overzichtskaart / Top. Inrichting",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/iiif/info/krt/4914/manifest.json"
+      },
+      {
+        "title": "Onteigening voor en ten behoeve van de verbreeding en de doortrekking van de Lekstraat te 's-Gravenhage : Gemeente 's-Gravenhage sectie R",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2627/manifest.json"
+      },
+      {
+        "title": "Plattegrond van de gemeente Rotterdam, vervaardigd na de uitbreiding aan den linker oever der Maas / door H.C.T. van de Wall ; gravure en kleurendruk van J. Smulders & Cie",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2889/manifest.json"
+      },
+      {
+        "title": "Atlas van de gemeente Amsterdam : bevattende de grondteekening van alle gebouwen met de tegenwoordige nommering, en onderscheiding van gemeente-eigendommen, publieke en bijzondere gebouwen, woon- en pakhuizen : in 101 kaarten / naar officiële bronnen bewerkt; [schaal 1:1.250]",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/5415/manifest.json"
+      },
+      {
+        "title": "Nieuwe platte grond der stad Rotterdam",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2886/manifest.json"
+      },
+      {
+        "title": "Rotterdam",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2888/manifest.json"
+      },
+      {
+        "title": "Plattegrond van Rotterdam / geteekend door J.J. Claus",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/1654/manifest.json"
+      },
+      {
+        "title": "River Nieuwe Maas and Rotterdam's havens",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:2891/manifest.json"
+      },
+      {
+        "title": "Grondkaart der stad Rotterdam, op het einde der XVI eeuw",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2887/manifest.json"
+      },
+      {
+        "title": "Platte grond der stad Rotterdam / vervaardigd volgens de kadastrale plans ... door L.F. Temminck ; gegraveerd door Dl. Veelwaard en Zonen",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2890/manifest.json"
+      },
+      {
+        "title": "Aan de gemeente Rotterdam toe te voegen gebied",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json"
+      },
+      {
+        "title": "Sleeswijk's kaart van Gooi- en Eemland : voor wandelaars, wielrijders en automobilisten : naar officieele gegevens bewerkt",
+        "type": "manifest",
+        "url": "https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/6357/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Wageningen University & Research: Map Collection Alterra",
+    "url": "https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll25",
+    "examples": [
+      {
+        "title": "Breda : Bodemkaart. [Bijlage 1]",
+        "type": "manifest",
+        "url": "https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1009/manifest.json"
+      },
+      {
+        "title": "Ruilverkaveling Westwoud : Bodemkaart. Bijlage 1",
+        "type": "manifest",
+        "url": "https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1350/manifest.json"
+      },
+      {
+        "title": "Ruilverkaveling Tubbergen : Zandkaart. Bijlage 4",
+        "type": "manifest",
+        "url": "https://cdm21045.contentdm.oclc.org/iiif/info/coll25/686/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Wageningen University & Research: Old Maps and Atlases",
+    "url": "https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll21",
+    "examples": [
+      {
+        "title": "Kaarte van Schouwen en Duiveland",
+        "type": "manifest",
+        "url": "https://cdm21045.contentdm.oclc.org/iiif/info/coll21/183/manifest.json"
+      },
+      {
+        "title": "Kaart van de beneeden rivier de Maas en de Merwede, van de Noord Zee tot Hardinksveld",
+        "type": "manifest",
+        "url": "https://cdm21045.contentdm.oclc.org/iiif/info/coll21/550/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "University of Groningen",
+    "id": "university-of-groningen",
+    "url": "https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21053_Kaarten",
+    "examples": [
+      {
+        "title": "Provinciekaarten van Nederland - [2]: Friesland",
+        "type": "manifest",
+        "url": "https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/2655/manifest.json"
+      },
+      {
+        "title": "Accuratissima Germaniae tabula",
+        "type": "manifest",
+        "url": "https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/1581/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Princeton University Library",
+    "id": "princeton",
+    "url": "https://maps.princeton.edu/?layer_geom_type_s%5D%5B%5D=Image&search_field=all_fields",
+    "examples": [
+      {
+        "title": "The environs of Dublin",
+        "type": "manifest",
+        "url": "https://figgy.princeton.edu/concern/scanned_maps/c9d4b69f-071e-4d57-b475-c572420a02e2/manifest"
+      },
+      {
+        "title": "Philips' clear print half inch map of the Lake District",
+        "type": "manifest",
+        "url": "https://figgy.princeton.edu/concern/scanned_maps/fc98c5ab-9476-4ea4-b946-1ce8cfd7a4cf/manifest"
+      },
+      {
+        "title": "Map of Russian Lapland drawn from the original map made by Professor J. A. Friis by George T. Temple",
+        "type": "manifest",
+        "url": "https://figgy.princeton.edu/concern/scanned_maps/fa4fb452-5f1d-42ab-a471-53afc176c948/manifest"
+      }
+    ]
+  },
+  {
+    "title": "e-rara, the platform for digitized rare books from Swiss institutions",
+    "id": "e-rara",
+    "url": "https://www.e-rara.ch/search/quick?query=karte&facets=type%3D%22cartographic%22",
+    "examples": [
+      {
+        "title": "Reliefkarte der Centralschweiz",
+        "type": "manifest",
+        "url": "https://www.e-rara.ch/i3f/v20/10747751/manifest"
+      },
+      {
+        "title": "Die Oberitalienischen Seen und ihr Excursionsgebiet",
+        "type": "manifest",
+        "url": "https://www.e-rara.ch/i3f/v20/6484723/manifest"
+      }
+    ]
+  },
+  {
+    "title": "Polona",
+    "id": "polona",
+    "url": "https://polona.pl/search/?filters=category:maps,public:1,hasTextContent:0",
+    "examples": [
+      {
+        "title": "Pharus-Plan von Königsberg (Pr) : mit Straßenverzeichnis : Maßstab 1:15 000",
+        "type": "manifest",
+        "url": "https://polona.pl/iiif/item/NTU5NTE4OTg/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Det Kgl. Bibliotek: Digitale Samlinger",
+    "id": "det-kgl-bibliotek",
+    "url": "https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields",
+    "examples": [
+      {
+        "title": "Charta öfver Skjärgården och Farwatnen omkring Carlscrona",
+        "type": "manifest",
+        "url": "https://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json"
+      },
+      {
+        "title": "Grundritning öfver Stockholms Stad N° I",
+        "type": "manifest",
+        "url": "https://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json"
+      }
+    ]
+  },
+  {
+    "title": "Harvard Library Digital Collections",
+    "id": "harvard",
+    "url": "https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=cartographic&search_field=all_fields",
+    "examples": [
+      {
+        "title": "Mil.-Geo.-Plan von Leningrad",
+        "type": "manifest",
+        "url": "https://iiif.lib.harvard.edu/manifests/ids:30874065"
+      },
+      {
+        "title": "Rotterdam",
+        "url": "https://iiif.lib.harvard.edu/manifests/ids:9780540"
+      },
+      {
+        "title": "Platte grond van Rotterdam 1912",
+        "type": "manifest",
+        "url": "https://iiif.lib.harvard.edu/manifests/ids:9780524"
+      },
+      {
+        "title": "Map showing routes & stations on the dual system October, 1918",
+        "type": "manifest",
+        "url": "https://iiif.lib.harvard.edu/manifests/ids:6938090"
+      },
+      {
+        "title": "Map of the rail-roads of the state of New York",
+        "type": "manifest",
+        "url": "https://iiif.lib.harvard.edu/manifests/ids:6924636"
+      }
+    ]
+  },
+  {
+    "title": "Ibero-Amerikanisches Institut",
+    "id": "iai",
+    "url": "https://digital.iai.spk-berlin.de/viewer/search/-/-/1/-/MD_MATERIAL%3AKarte/",
+    "examples": [
+      {
+        "title": "Province De New-York",
+        "type": "manifest",
+        "url": "https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json"
+      }
+    ]
+  },
+  {
+    "title": "Badische Landesbibliothek Karlsruhe",
+    "id": "blb-karlsruhe",
+    "url": "https://digital.blb-karlsruhe.de/Karten/topic/view/178828",
+    "examples": [
+      {
+        "title": "Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld",
+        "type": "manifest",
+        "url": "https://digital.blb-karlsruhe.de/i3f/v20/5339993/manifest"
+      }
+    ]
+  },
+  {
+    "title": "Gallica, Bibliothèque nationale de France",
+    "id": "gallica-bnf",
+    "url": "https://gallica.bnf.fr/html/und/cartes/cartes?mode=desktop",
+    "examples": [
+      {
+        "title": "Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London",
+        "type": "manifest",
+        "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192683w/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Bodleian Libraries",
+    "id": "bodleian-libraries",
+    "url": "https://digital.bodleian.ox.ac.uk/collections/maps/",
+    "examples": [
+      {
+        "title": "Plan of the City of Oxford",
+        "type": "manifest",
+        "url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/f45ff5a5-8c14-435b-82b1-f95d61f530d0.json"
+      }
+    ]
+  },
+  {
+    "title": "e-manuscripta.ch",
+    "id": "e-manuscripta",
+    "url": "https://www.e-manuscripta.ch/emanus/maps/nav/classification/642361",
+    "examples": [
+      {
+        "title": "Geometrischer Grundriss der Stadt Bern",
+        "type": "manifest",
+        "url": "https://www.e-manuscripta.ch/i3f/v20/798659/manifest"
+      }
+    ]
+  },
+  {
+    "title": "World Digital Library",
+    "id": "wdl",
+    "url": "https://www.wdl.org/en/search/?item_type=map",
+    "examples": [
+      {
+        "title": "Maps of Ezo, Sakhalin, and Kuril Islands",
+        "type": "manifest",
+        "url": "https://www.wdl.org/en/item/3/iiif/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "University of Texas Libraries",
+    "id": "university-of-texas-libraries",
+    "include": false,
+    "url": "https://collections.lib.utexas.edu/?f%5Bdisplay_type_ms%5D%5B%5D=Maps&q=&search=&search_field=search",
+    "examples": [
+      {
+        "title": "Sanborn Fire Insurance Maps [Waelder, Texas, 1922, Sheet 5]",
+        "type": "manifest",
+        "url": "https://curio.lib.utexas.edu/manifests/utldams_utlmaps_177de5e8-21f1-444a-829a-386be9d57bd8.json"
+      }
+    ]
+  },
+  {
+    "title": "Orka, Universität Kassel",
+    "id": "uni-kassel",
+    "url": "https://orka.bibliothek.uni-kassel.de/viewer/browse/-/1/-/DC:kartenundplaene/",
+    "examples": [
+      {
+        "title": "Plan der Stadt Cassel und Umgebung 1925",
+        "type": "manifest",
+        "url": "https://orka.bibliothek.uni-kassel.de/viewer/rest/iiif/manifests/1535113582549/manifest/"
+      }
+    ]
+  },
+  {
+    "title": "Illinois University Library",
+    "id": "illinois-university-library",
+    "url": "https://metadata.library.illinois.edu/collections#q=&fq%5B%5D=local_facet_repository%3AMap%20Library&q=&sort=",
+    "examples": [
+      {
+        "title": "Course of the River Mississippi, from the Balise to Fort Chartres ; taken on an expedition to the Illinois, in the latter end of the year 1765 by Lieut. Ross of the 34th Regiment.",
+        "type": "manifest",
+        "url": "https://digital.library.illinois.edu/items/8b2e3ed0-d675-0137-6f52-02d0d7bfd6e4-5/manifest"
+      },
+      {
+        "title": "The Mississippi",
+        "type": "manifest",
+        "url": "https://digital.library.illinois.edu/items/11bcdd70-d1ed-0137-6f52-02d0d7bfd6e4-c/manifest"
+      },
+      {
+        "title": "Topographical map of the Tri Cities Davenport Ia, Rock Island and Moline IlL. showing the Rock Island Arsenal, Rock Island Rapids and the western terminus of the Illinois and Mississippi Canal compiled and drawn from actual surveys, government, state, county and city records by M. Huebinger, S. Wangersheim, lith., Chicago.",
+        "type": "manifest",
+        "url": "https://digital.library.illinois.edu/items/8b29c4b0-d675-0137-6f52-02d0d7bfd6e4-d/manifest"
+      },
+      {
+        "title": "Upper Mississippi River Hastings, Minnesota to Grafton, Illinois survey 1929-1930, surveyed and drawn by W.N. Brown, Inc., Washington, D.C. under contract with the U.S. Engineer Office, Rock Island, Ill., Major C.L. Hall, District Engineer.",
+        "type": "manifest",
+        "url": "https://digital.library.illinois.edu/items/8b097c70-d675-0137-6f52-02d0d7bfd6e4-7/manifest"
+      },
+      {
+        "title": "Port facilities on Mississippi River",
+        "type": "manifest",
+        "url": "https://digital.library.illinois.edu/items/c89bb510-66e4-0138-727b-02d0d7bfd6e4-1/manifest"
+      }
+    ]
+  },
+  {
+    "title": "University of Edinburgh",
+    "id": "university-of-edinburgh",
+    "url": "https://images.is.ed.ac.uk/luna/servlet/UoEcha~1~1",
+    "examples": [
+      {
+        "title": "[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]",
+        "type": "manifest",
+        "url": "https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEcha~1~1~296741~101629/manifest"
+      }
+    ]
+  },
+  {
+    "title": "Yale University Library",
+    "id": "yale",
+    "url": "https://collections.library.yale.edu/catalog?f%5Bgenre_ssim%5D%5B%5D=Maps&q=&search_field=all_fields",
+    "examples": [
+      {
+        "title": "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862",
+        "type": "manifest",
+        "url": "https://collections.library.yale.edu/manifests/2005511"
+      },
+      {
+        "title": "Stanford's half-inch map of the battle front, Ostend, Zeebrugge, Bruges / Edward Stanford Ltd.",
+        "type": "manifest",
+        "url": "https://collections.library.yale.edu/manifests/15237953.json"
+      },
+      {
+        "title": "Map of Canals and Navigable Rivers in Belgium and The North of France.",
+        "type": "manifest",
+        "url": "https://collections.library.yale.edu/manifests/15826830.json"
+      },
+      {
+        "title": "Antwerp / engraved & printed by B.R. Davies ; drawn by W.B. Clarke.",
+        "type": "manifest",
+        "url": "https://collections.library.yale.edu/manifests/15352326.json"
+      }
+    ]
+  },
+  {
+    "title": "Zentral- und Landesbibliothek Berlin",
+    "id": "zentral-und-landesbibliothek-berlin",
+    "url": "https://digital.zlb.de/viewer/search/-/%28DC%3A%22berlin.stadtplaenestadtansichten%22%29/1/SORT_YEARPUBLISH/-/",
+    "examples": [
+      {
+        "title": "Die Churfürstlich Brandenburgisch nun Königlich Preussische Residenz Statt",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/34231622/manifest/"
+      },
+      {
+        "title": "Berlin und Cölln an der Spree vor dero Erweiterung",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/34231682/manifest/"
+      },
+      {
+        "title": "Die Königl. Preus. u. Churf. Brandenb. Residenz-Stadt Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453578/manifest/"
+      },
+      {
+        "title": "Berlin und Cölln an der Spree vor dero Erweiterung",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/34231671/manifest/"
+      },
+      {
+        "title": "Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15455043/manifest/"
+      },
+      {
+        "title": "Berlin und Umgegend",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453240/manifest/"
+      },
+      {
+        "title": "Grundriss der beyden Churf. Residentz Stätte Berlin und Cölln an der Spree",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15452583/manifest/"
+      },
+      {
+        "title": "Plan von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453751/manifest/"
+      },
+      {
+        "title": "Special-Plan von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453560/manifest/"
+      },
+      {
+        "title": "Schwarz Stadtplan von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15454953/manifest/"
+      },
+      {
+        "title": "Neuer geometrischer Plan der gesammten Königlich-Preussischen und Churfürstlich-Brandenburgischen Haupt und Residentzstadt Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453234/manifest/"
+      },
+      {
+        "title": "Kiessling's grosse Special-Karte der Umgegend von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15452541/manifest/"
+      },
+      {
+        "title": "Grundriß der Beyden Churf. Residentz Stätte Berlin und Cölln an der Spree",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/34231578/manifest/"
+      },
+      {
+        "title": "Die Königl. Residenz Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453880/manifest/"
+      },
+      {
+        "title": "Plan de la Ville de Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453614/manifest/"
+      },
+      {
+        "title": "Grundriss der Königlichen Residenzstädte Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453274/manifest/"
+      },
+      {
+        "title": "Gegend bey Berlin und Potsdam",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453585/manifest/"
+      },
+      {
+        "title": "Grundriss der Königl. Residenzstädte Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15454999/manifest/"
+      },
+      {
+        "title": "Grundriss der Königl. Residenzstädte Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15452831/manifest/"
+      },
+      {
+        "title": "Grundriss von Berlin und seinen naechsten Umgebungen",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15454959/manifest/"
+      },
+      {
+        "title": "Neuester Grundriss von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15452793/manifest/"
+      },
+      {
+        "title": "Grundriss von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453876/manifest/"
+      },
+      {
+        "title": "Historischer Atlas von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453722/manifest/"
+      },
+      {
+        "title": "Manoeuver Plan der Gegend um Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453860/manifest/"
+      },
+      {
+        "title": "Neuester Grundriss von Berlin im Jahre 1842",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453211/manifest/"
+      },
+      {
+        "title": "Grundriss von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453856/manifest/"
+      },
+      {
+        "title": "Plan von Berlin und Umgegend bis Charlottenburg",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453676/manifest/"
+      },
+      {
+        "title": "Neuester Bebauungs-Plan von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15452733/manifest/"
+      },
+      {
+        "title": "Neuester Plan von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453878/manifest/"
+      },
+      {
+        "title": "Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453195/manifest/"
+      },
+      {
+        "title": "Straube's neuer Radfahrer-Plan von Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/16325792/manifest/"
+      },
+      {
+        "title": "Grosser Verkehrs-Plan von Berlin mit seinen Vororten",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453873/manifest/"
+      },
+      {
+        "title": "Karte von Berlin und nächster Umgebung mit der am 1. Juni 1906 in Kraft tretenden Gerichtseinteilung",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453746/manifest/"
+      },
+      {
+        "title": "Karte von Berlin und weiterer Umgebung mit der am 1. Juni 1906 in Kraft tretenden Gerichtseinteilung",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15452979/manifest/"
+      },
+      {
+        "title": "Amtliche Entfernungskarte des Kreises Niederbarnim mit den Stadtkreisen Berlin und Lichtenberg",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/34354511/manifest/"
+      },
+      {
+        "title": "Karte von Gross-Berlin",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453186/manifest/"
+      },
+      {
+        "title": "Silva-Übersichtsplan von der Stadt Berlin und ihren 20 Verwaltungsbezirken",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453225/manifest/"
+      },
+      {
+        "title": "Wie fahr' ich?",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453867/manifest/"
+      },
+      {
+        "title": "Die Königl. Residenz Berlin, wie selbige sich um das Jahr 1723 präsentiret",
+        "type": "manifest",
+        "url": "https://digital.zlb.de/viewer/api/v1/records/15453001/manifest/"
+      }
+    ]
+  },
+  {
+    "title": "Utrecht University Library Special Collections",
+    "id": "utrecht-university-library",
+    "url": "https://www.uu.nl/en/utrecht-university-library-special-collections/collections/maps-and-atlases",
+    "examples": [
+      {
+        "title": "Purmer : de Purmer is gemeeten A° 1622 door Mr. Lucas Iansz Zinck landmeter, en op nieuws oversien verbeetert en in 't licht gebragt A° 1683 door Ioannes Leupenius landmeter.",
+        "type": "image",
+        "url": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/60/82/67/60826765847502039061478934746532282060.jp2/info.json"
+      },
+      {
+        "title": "Chaerte vande Wieringer waert : de welcke inden jaere xvi c acht begost is bedyckt te worden ... dat de landen daer inne bedyckt ter nombre van 1895 morgens van 720 roeden de morgen Geestmeerambachts landtmaete of 600 roen binnenbanse ofte Sypse dyckmaete : by alle Contribuanten en gewillighe Bedyckers op den xij.de Julii Ao. xvj c xi by blinde lotinge gekavelt ende gedeelt zyn",
+        "type": "image",
+        "url": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/40/62/80/40628087387683287288049825798881270832.jp2/info.json"
+      },
+      {
+        "title": "Urbis Traiecti ad Rhenum novissima et accuratissima delineatio",
+        "type": "image",
+        "url": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/87/40/118740207246035919625727383986846718971.jp2/info.json"
+      },
+      {
+        "title": "Het eiland Ameland, voormaals eene heerlijkheid, later de 31e grietenij der provincie Friesland : thans kadastrale gemeenten 1. Ballum 2. Nes, behoorende tot het IIIe kanton (Holwerd) Ie arrondissement (Leeuwarden), opgemaakt in 1854 ...",
+        "type": "image",
+        "url": "https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/04/00/110400342046991889344064150380191603423.jp2/info.json"
+      }
+    ]
+  },
+  {
+    "title": "Center for Sacramento History",
+    "id": "center-for-sacramento-history",
+    "url": "https://archive.org/details/cshtext?and[]=subject%3A%22CSH+Map+Digitization+Project%22",
+    "examples": [
+      {
+        "title": "Map of the State of California",
+        "type": "manifest",
+        "url": "https://iiif.archivelab.org/iiif/map198204401/manifest.json"
+      },
+      {
+        "title": "Plano de la Ciudad de Mexico",
+        "type": "manifest",
+        "url": "https://iiif.archivelab.org/iiif/map19820040456/manifest.json"
+      },
+      {
+        "title": "Principal Automobile Routes through the city of Sacramento",
+        "type": "manifest",
+        "url": "https://iiif.archivelab.org/iiif/map1984124004/manifest.json"
+      }
+    ]
+  },
+  {
+    "title": "Custom generated map manifests",
+    "include": false,
+    "url": "https://github.com/bertspaan/iiif-map-collections/tree/master/manifests",
+    "examples": [
+      {
+        "title": "Rotterdams Publiek: Publieke Werken",
+        "type": "manifest",
+        "url": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/rotterdam-publieke-werken.json"
+      },
+      {
+        "title": "Living with Machines: London",
+        "type": "manifest",
+        "url": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json"
+      }
+    ]
+  }
+]
